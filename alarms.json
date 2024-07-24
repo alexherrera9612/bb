@@ -1,0 +1,401 @@
+[
+  {
+    "alarm": "SECURITY",
+    "out": {
+      "_gpio": 4,
+      "_gpioPath": "/sys/class/gpio/gpio4/",
+      "_debounceTimeout": 0,
+      "_readBuffer": {
+        "type": "Buffer",
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_readSyncBuffer": {
+        "type": "Buffer",
+        "data": [
+          48,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_listeners": [],
+      "_valueFd": 24,
+      "_poller": {
+        "closed": false
+      }
+    },
+    "status": 0,
+    "door": ""
+  },
+  {
+    "alarm": "EMERGENCY",
+    "out": {
+      "_gpio": 17,
+      "_gpioPath": "/sys/class/gpio/gpio17/",
+      "_debounceTimeout": 0,
+      "_readBuffer": {
+        "type": "Buffer",
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_readSyncBuffer": {
+        "type": "Buffer",
+        "data": [
+          48,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_listeners": [],
+      "_valueFd": 25,
+      "_poller": {
+        "closed": false
+      }
+    },
+    "status": 0,
+    "door": ""
+  },
+  {
+    "alarm": "DISARM",
+    "out": {
+      "_gpio": 18,
+      "_gpioPath": "/sys/class/gpio/gpio18/",
+      "_debounceTimeout": 0,
+      "_readBuffer": {
+        "type": "Buffer",
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_readSyncBuffer": {
+        "type": "Buffer",
+        "data": [
+          48,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_listeners": [],
+      "_valueFd": 26,
+      "_poller": {
+        "closed": false
+      }
+    },
+    "status": 0,
+    "door": ""
+  },
+  {
+    "alarm": "DOOR_M",
+    "out": {
+      "_gpio": 27,
+      "_gpioPath": "/sys/class/gpio/gpio27/",
+      "_debounceTimeout": 0,
+      "_readBuffer": {
+        "type": "Buffer",
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_readSyncBuffer": {
+        "type": "Buffer",
+        "data": [
+          48,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_listeners": [],
+      "_valueFd": 27,
+      "_poller": {
+        "closed": false
+      }
+    },
+    "status": 0,
+    "door": "1/2"
+  },
+  {
+    "alarm": "DOOR_C",
+    "out": {
+      "_gpio": 23,
+      "_gpioPath": "/sys/class/gpio/gpio23/",
+      "_debounceTimeout": 0,
+      "_readBuffer": {
+        "type": "Buffer",
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_readSyncBuffer": {
+        "type": "Buffer",
+        "data": [
+          48,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_listeners": [],
+      "_valueFd": 28,
+      "_poller": {
+        "closed": false
+      }
+    },
+    "status": 0,
+    "door": ""
+  },
+  {
+    "alarm": "DOOR_S",
+    "out": {
+      "_gpio": 24,
+      "_gpioPath": "/sys/class/gpio/gpio24/",
+      "_debounceTimeout": 0,
+      "_readBuffer": {
+        "type": "Buffer",
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_readSyncBuffer": {
+        "type": "Buffer",
+        "data": [
+          48,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_listeners": [],
+      "_valueFd": 29,
+      "_poller": {
+        "closed": false
+      }
+    },
+    "status": 0,
+    "door": "3"
+  },
+  {
+    "alarm": "DOOR_S2",
+    "out": {
+      "_gpio": 25,
+      "_gpioPath": "/sys/class/gpio/gpio25/",
+      "_debounceTimeout": 0,
+      "_readBuffer": {
+        "type": "Buffer",
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_readSyncBuffer": {
+        "type": "Buffer",
+        "data": [
+          48,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "_listeners": [],
+      "_valueFd": 30,
+      "_poller": {
+        "closed": false
+      }
+    },
+    "status": 0,
+    "door": ""
+  }
+]
